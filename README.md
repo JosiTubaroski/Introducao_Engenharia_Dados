@@ -28,23 +28,23 @@ A engenharia de dados é uma disciplina fundamental no campo da ciência de dado
 ### 4. Qualidade e Governança de Dados
 
 - Qualidade de Dados:
-  1. Validação e limpeza dos dados.
-  2. Detecção e correção de duplicatas e inconsistências.
+  - Validação e limpeza dos dados.
+  - Detecção e correção de duplicatas e inconsistências.
 - Governança de Dados:
-  1. Metadados e catalogação.
-  2. Detecção e correção de duplicatas e inconsistências.
+   - Metadados e catalogação.
+   - Detecção e correção de duplicatas e inconsistências.
 - Privacidade e Segurança:
-  1. Conformidade com leis como LGPD ou GDPR.
-  2. Criptografia e controle de acessos.
+  - Conformidade com leis como LGPD ou GDPR.
+  - Criptografia e controle de acessos.
 
  ### 5. Escabilidade e Performance
 
  - Soluções Escaláveis:
-   - 1. Ferramentas como Apache Spark ou Hadoop para processar grandes volumes de dados.
+   - Ferramentas como Apache Spark ou Hadoop para processar grandes volumes de dados.
     
  - Performance:
-   - 1. Indexação e particionamento em bancos de dados.
-   - 2. Uso de caches, como Redis ou Memcached.
+   -  Indexação e particionamento em bancos de dados.
+   -  Uso de caches, como Redis ou Memcached.
 
 ### 6. Data Warehousing e Data Lakes
 
@@ -54,13 +54,13 @@ A engenharia de dados é uma disciplina fundamental no campo da ciência de dado
 ### 7. Ferramentas e Linguagens
 
 - Linguagens de Programação:
-- 1. SQL: Fundamento para manipulação de dados em bancos relacionais.
-- 2. Python/Scala: Para scripts, automação e frameworks como PySpark
+  -  SQL: Fundamento para manipulação de dados em bancos relacionais.
+  -  Python/Scala: Para scripts, automação e frameworks como PySpark
 
 - Ferramentas:
-- 1. Orquestração: Apache Airflow, Luigi.
-- 2. Bancos de Dados: PostgreSQL, MySQL, MongoDB, Cassandra.
-- 3. Processamento: Apache Spark, Databricks, Flink.
+  - Orquestração: Apache Airflow, Luigi.
+  - Bancos de Dados: PostgreSQL, MySQL, MongoDB, Cassandra.
+  - Processamento: Apache Spark, Databricks, Flink.
 
 ###  8. Monitoramento e Observabilidade
 
