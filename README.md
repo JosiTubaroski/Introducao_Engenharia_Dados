@@ -12,6 +12,10 @@
 <p><a href="https://github.com/JosiTubaroski/Times_de_Engenharia/blob/main/README.md">02. Times de dados.</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Engenharia_Dados_Organizacoes">03. Engenharia de Dados nas organizações.</a></p>
+</div> 
+
 
 ## Quais são os principais fundamentos da engenharia de dados?
 
