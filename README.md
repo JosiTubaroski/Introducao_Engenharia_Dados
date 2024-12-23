@@ -4,6 +4,10 @@
 <p><a href="https://github.com/JosiTubaroski/Evolucao_Engenharia_Dados">01. Evolução da Engenharia de dados.</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Times_de_Engenharia/blob/main/README.md">02. Times de dados.</a></p>
+</div> 
+
 
 ## Quais são os principais fundamentos da engenharia de dados?
 
