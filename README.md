@@ -16,3 +16,7 @@
 <p><a href="https://github.com/JosiTubaroski/Engenharia_Dados_Organizacoes">03. Engenharia de Dados nas organizações.</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Engenharia_Dados_Organizacoes">04. Conhecimentos e Habilidades para Engenharia de Dados.</a></p>
+</div> 
+
