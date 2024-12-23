@@ -82,7 +82,7 @@ A engenharia de dados é uma disciplina fundamental no campo da ciência de dado
 
 Se você esta começando, aprender os conceitos de ETL, modelagem de dados, SQL, e ferramentas como Apache Airflow e Spark são bons pontos 
 
-## Como surgiu a engenharia de dados e os principais pontos chaves na evolução da área?
+## Evolução da Engenharia de dados
 
 A engenharia de dados surgiu com a necessidade de gerenciar e processar grandes volumes de dados, algo que começou a se intensificar com a popularização da internet e o aumento das capacidades computacionais. O campo tem suas raízes nas áreas de computação, banco de dados e análise de dados, e sua evolução acompanha o crescimento do volume de dados e da complexidade das soluções necessárias para lidar com eles.
 
