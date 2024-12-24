@@ -21,6 +21,6 @@
 </div> 
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/conhecimentos_habilidades_engenharia/blob/main/README.md">05. Data Analytics.</a></p>
+<p><a href="https://github.com/JosiTubaroski/Data_Analytics/blob/main/README.md">05. Data Analytics.</a></p>
 </div> 
 
