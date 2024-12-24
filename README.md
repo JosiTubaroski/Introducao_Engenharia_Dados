@@ -17,6 +17,6 @@
 </div> 
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Engenharia_Dados_Organizacoes">04. Conhecimentos e Habilidades para Engenharia de Dados.</a></p>
+<p><a href="https://github.com/JosiTubaroski/conhecimentos_habilidades_engenharia/blob/main/README.md">04. Conhecimentos e Habilidades para Engenharia de Dados.</a></p>
 </div> 
 
