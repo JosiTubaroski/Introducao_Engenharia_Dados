@@ -29,6 +29,6 @@
 </div> 
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Big_Data/blob/main/README.md">07. Data Pipeline.</a></p>
+<p><a href="https://github.com/JosiTubaroski/Data_Pipeline/blob/main/README.md">07. Data Pipeline.</a></p>
 </div> 
 
