@@ -25,6 +25,6 @@
 </div> 
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Data_Analytics/blob/main/README.md">06. Big Data.</a></p>
+<p><a href="https://github.com/JosiTubaroski/Big_Data/blob/main/README.md">06. Big Data.</a></p>
 </div> 
 
