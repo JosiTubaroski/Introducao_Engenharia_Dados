@@ -36,3 +36,7 @@
 <p><a href="https://github.com/JosiTubaroski/Computacao_Distriuida/blob/main/README.md">08. Computação Distriuida.</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Computacao_Distriuida/blob/main/README.md">09. Hadoop.</a></p>
+</div> 
+
