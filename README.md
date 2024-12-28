@@ -32,3 +32,7 @@
 <p><a href="https://github.com/JosiTubaroski/Data_Pipeline/blob/main/README.md">07. Data Pipeline.</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Computacao_Distriuida/blob/main/README.md">08. Computação Distriuida.</a></p>
+</div> 
+
