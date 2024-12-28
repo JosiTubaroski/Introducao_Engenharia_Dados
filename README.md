@@ -37,6 +37,6 @@
 </div> 
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Computacao_Distriuida/blob/main/README.md">09. Hadoop.</a></p>
+<p><a href="https://github.com/JosiTubaroski/Apache-Hadoop">09. Hadoop.</a></p>
 </div> 
 
