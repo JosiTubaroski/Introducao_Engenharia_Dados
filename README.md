@@ -48,5 +48,9 @@
 <p><a href="https://github.com/JosiTubaroski/Mecanismo_Busca_Engenharia_Dados/blob/main/README.md">11. O que os mecanismos de busca tem em comum com a engenharia de dados?</a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Mecanismo_Busca_Engenharia_Dados/blob/main/README.md">12. Como funcionava o primeiro mecanismo de busca?</a></p>
+</div> 
+
 
 
