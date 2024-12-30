@@ -49,7 +49,7 @@
 </div> 
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Mecanismo_Busca_Engenharia_Dados/blob/main/README.md">12. Como funcionava o primeiro mecanismo de busca?</a></p>
+<p><a href="https://github.com/JosiTubaroski/Mecanismos_Busca">12. Como funcionava o primeiro mecanismo de busca?</a></p>
 </div> 
 
 
