@@ -57,5 +57,5 @@
 </div> 
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Google">14. Caso de uso de processamento de dados de vendas com SQL Server</a></p>
+<p><a href="https://github.com/JosiTubaroski/Processamento_SQL_Server/blob/main/README.md">14. Caso de uso de processamento de dados de vendas com SQL Server</a></p>
 </div> 
