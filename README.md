@@ -75,3 +75,7 @@
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Big_Data_open-source">18. Caso de uso de Big Data com Ferramentas Open Source</a></p>
 </div> 
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Big_Data_open-source">19. Porque aprender SQL e Python é tão importante para a engenharia de dados?</a></p>
+</div> 
