@@ -77,5 +77,5 @@
 </div> 
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Big_Data_open-source">19. Porque aprender SQL e Python é tão importante para a engenharia de dados?</a></p>
+<p><a href="https://github.com/JosiTubaroski/SQL_Python/blob/main/README.md">19. Porque aprender SQL e Python é tão importante para a engenharia de dados?</a></p>
 </div> 
